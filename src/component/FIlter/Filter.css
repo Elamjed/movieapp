@@ -1,0 +1,24 @@
+*{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.topnav{
+    display: flex;
+    justify-content: space-between;
+}
+.ser{
+    margin-right: 10px;
+    margin-bottom: 30px;
+    border: none;
+    border-bottom: 1px solid white;
+    outline: none;
+    background: transparent;
+}
+.seachraiting{
+padding-left: 50px;
+}
+Button.btn-primary {
+    color: black;
+    background-color: white;
+    border-color: #007bff;
+    border-radius: 20px;
+}
