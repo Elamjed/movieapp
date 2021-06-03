@@ -4,9 +4,15 @@
     padding: 20px 120px;
     background-color: #222222;
     
+    
 }
 
 .pic{
     height: 60px;
     width:  75px;
+}
+.liste ul{
+    color: white;
+    list-style-type: none;
+    padding-right: 500px;
 }

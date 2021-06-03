@@ -1,0 +1,15 @@
+
+.body_movie{
+width: 640px;
+margin-left: auto;
+margin-right: auto;
+margin-top: auto;
+
+}
+.desc{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    
+}
+.new{
+    margin-top: 150px;
+}
